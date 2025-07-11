@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=About+me...)](https://git.io/typing-svg)
 I'm Abdallah, A full-stack software engineer focused on capturing unique ideas and making them come to life through coding
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=I%E2%80%99m+currently+working+on+...)](https://git.io/typing-svg)
 *Follow me and stay tuned!*
 <!--
 
